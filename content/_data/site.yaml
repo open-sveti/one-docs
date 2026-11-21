@@ -2,7 +2,7 @@ base: https://buildawesome.one
 title: 11ty / Build Awesome One¹
 brand: '<big class="mark-brand">One¹</big>'
 header_links:
-  - url: https://github.com/buildawesome-one
+  - url: https://github.com/open-sveti/one
     title: <i class="fa-brands fa-github fa-lg"></i>
   - url: https://bsky.app/hashtag/BuildAwesome?author=any.digital
     title: <i class="fa-brands fa-bluesky"></i>
