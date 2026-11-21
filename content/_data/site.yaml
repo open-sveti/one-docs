@@ -1,6 +1,6 @@
 base: https://buildawesome.one
 title: 11ty / Build Awesome One
-brand: <big class="mark-brand">①ne</big>
+brand: <big class="mark-brand">➀ne</big>
 header_links:
   - url: https://github.com/open-sveti/one
     title: <i class="fa-brands fa-github fa-lg"></i>
