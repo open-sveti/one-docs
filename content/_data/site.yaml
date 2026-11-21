@@ -13,6 +13,6 @@ header_links:
   - url: https://github.com/buildawesome-one/docs/tree/main/content
     title: <i class="fa-solid fa-laptop-code faded"></i>
 footer_contents:
-  - Code licensed [MIT](//github.com/buildawesome-one/kit/blob/main/LICENSE.md),
+  - Code licensed [MIT](//github.com/open-sveti/one/blob/main/LICENSE.md),
     docs [CC BY-SA 4.0](//github.com/buildawesome-one/docs/blob/main/content/LICENSE.md).
   - This site is powered by [Netlify](//www.netlify.com/) using <object data="/gh-content.svg" class="dark-auto"></object>

@@ -1,15 +1,15 @@
 ---
 eleventyNavigation: { parent: More, key: CLI }
 title: <em>One</em> CLI
-description: https://github.com/buildawesome-one/kit/tree/main/cli
+description: https://github.com/open-sveti/one/tree/main/cli
 bricks:
-  - path: https://raw.githubusercontent.com/buildawesome-one/kit/refs/heads/main/cli/README.md
+  - path: https://raw.githubusercontent.com/open-sveti/one/refs/heads/main/cli/README.md
     section: content
   - md: |-
       ---
       ## <sup style>Appendix</sup>
       How it works:
-  - path: "https://raw.githubusercontent.com/buildawesome-one/kit/refs/heads/main/cli/package.json"
+  - path: "https://raw.githubusercontent.com/open-sveti/one/refs/heads/main/cli/package.json"
     wrap: ["```json\n", "\n```"]
 ---
 
