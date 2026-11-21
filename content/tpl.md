@@ -1,6 +1,6 @@
 ---
 eleventyNavigation: { parent: More, key: Templating }
-description: https://github.com/anyblades/blades/tree/main/_includes/blades
+description: https://github.com/open-sveti/blades/tree/main/_includes/blades
 ---
 
 ---
